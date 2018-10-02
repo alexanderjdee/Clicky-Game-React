@@ -1,0 +1,25 @@
+.header {
+  width: 100%;
+  font-size: 2rem;
+  color: white;
+  background: purple;
+  margin-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  list-style-type: none;
+}
+
+li {
+  display: inline-block;
+}
+.title {
+  padding-left: 5%;
+}
+
+.message {
+  padding-left: 25%;
+}
+
+.scores {
+  float: right;
+} 
